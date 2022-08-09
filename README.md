@@ -26,6 +26,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - CSS3
 - HTML5
+- Bootstrap
 - JavaScript
 
 ## Licença e Autora
