@@ -228,11 +228,7 @@ body, html {
 #contato .email form {
     width: 60%;
     display: flex;
-}
-
-#contato .email button {
-    margin-top: 25px;
-    margin-left: 10px;
+    flex-direction: column;
 }
 
 #contato .email .form-control,
