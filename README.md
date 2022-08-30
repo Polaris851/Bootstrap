@@ -17,7 +17,7 @@ Projeto desenvolvido para o aprendizado em Bootstrap.
 
 <p align="center">
     <img alt="Demonstração" title="Demonstração" 
-    src="" />
+    src="https://raw.githubusercontent.com/Polaris851/Bootstrap/main/bootstrap.gif" />
 </p>
 
 ## Tecnologias utilizadas
